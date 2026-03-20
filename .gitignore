@@ -1,0 +1,15 @@
+# Build output
+cmake-build-debug/
+cmake-build-release/
+
+# CSV results (generated at runtime)
+*.csv
+
+# CLion IDE files
+.idea/
+
+# Compiled binaries
+*.exe
+*.o
+*.a
+*.dll
