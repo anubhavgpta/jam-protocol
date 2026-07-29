@@ -99,6 +99,5 @@ int main(void) {
            out_pdr, out_rss, out_rss - (-50.0f));
 
     printf("\nVerification complete.\n");
-    system("pause");
     return 0;
 }
